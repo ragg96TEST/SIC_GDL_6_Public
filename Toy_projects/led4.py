@@ -3,8 +3,8 @@ from time import sleep
 
 led = {
     "red" : LED(17),
-    "yellow" : LED(6),
-    "green" : LED(13)
+    "yellow" : LED(27),
+    "green" : LED(22)
 
 }
 
